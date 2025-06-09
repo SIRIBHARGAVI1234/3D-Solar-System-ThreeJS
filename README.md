@@ -19,16 +19,14 @@ This project is a 3D visualization of the Solar System built using Three.js. It 
 - [Three.js](https://threejs.org/) library for rendering 3D graphics in the browser
 
 ## How to Run
-
-1. Download and unzip the project folder.
-2. Open the `index.html` file in any modern web browser (Chrome, Firefox, Edge, etc.).
-3. Use the sliders in the control panel to change the orbital speeds of the planets dynamically.
-4. Click the **Pause** button to pause or resume the solar system animation.
+1. Open the `index.html` file in any modern web browser (Chrome, Firefox, Edge, etc.).
+2. Use the sliders in the control panel to change the orbital speeds of the planets dynamically.
+3. Click the **Pause** button to pause or resume the solar system animation.
 
 ## Additional Notes
 
 I am still learning JavaScript and 3D programming concepts. This project was developed with guidance and support from various online tutorials, documentation, and examples.
 
 ---
-
-Thank you for reviewing my assignment submission!
+## Feedback
+I'd love any feedback you have!
